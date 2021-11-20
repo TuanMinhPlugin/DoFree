@@ -1,0 +1,7 @@
+name: DoFree
+api: 3.0.0
+main: Dofree\Main
+command:
+  dochonguoikhokhan:
+    description: Đồ Free
+    aliases: [domienphi, dochonguoingeo, dochogiadinhkhokhan, dochogiadinhconguoimat, dochonguoiconguoinhamat, dofree, itemfree, dochonguoimatbo, dochonguoimatcon, dochonguoimatme, lamaliasvailon]
